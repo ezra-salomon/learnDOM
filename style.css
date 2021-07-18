@@ -1,8 +1,23 @@
-h1{
-    background-color: grey
-    
+
+body{
+    /*display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;*/
+    background-color: black;
 }
 
-p{
-    border-radius: 45px;
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.letter{
+    transition: 1000;
+}
+
+
+
+form{
+    background-color: white;
 }
